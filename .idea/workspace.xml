@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573d6e69-c68f-42ef-8993-e9bd3d6c30d6" name="Default Changelist" comment="连对了没">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/hexo-theme-volantis" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hexo-theme-volantis" afterDir="false" />
-    </list>
+    <list default="true" id="573d6e69-c68f-42ef-8993-e9bd3d6c30d6" name="Default Changelist" comment="feat: 新建任务" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +64,7 @@
       <workItem from="1658911181249" duration="1494000" />
       <workItem from="1658968260656" duration="11913000" />
       <workItem from="1659055685284" duration="3213000" />
-      <workItem from="1687240075965" duration="3414000" />
+      <workItem from="1687240075965" duration="3943000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1658909953401</created>
@@ -91,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687241121549</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: 新建任务">
+      <created>1687243654500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687243654500</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="连对了没" />
-    <option name="LAST_COMMIT_MESSAGE" value="连对了没" />
+    <MESSAGE value="feat: 新建任务" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 新建任务" />
   </component>
 </project>
